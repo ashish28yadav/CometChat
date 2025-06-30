@@ -14,11 +14,11 @@ A modern messaging app built with Android and Kotlin, leveraging the [CometChat]
 
 _Add screenshots of the app here._
 
-| Chat Screen | Voice Call | Video Call |
-|-------------|------------|------------|
+| Chat Screen | 
+|-------------|
 ![Screenshot 2025-06-26 130303](https://github.com/user-attachments/assets/8ba55f6e-9f37-4bce-b9bf-4e759910df1f)
 
-| ![Chat](![Screenshot 2025-06-26 130333](https://github.com/user-attachments/assets/6eebbd73-3a4f-4606-b409-7260a4974a75)
+(![Screenshot 2025-06-26 130333](https://github.com/user-attachments/assets/6eebbd73-3a4f-4606-b409-7260a4974a75)
 ![image](https://github.com/user-attachments/assets/ef6ce14b-4645-4c1a-af99-a4f773bec24e)
 
 
